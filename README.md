@@ -40,6 +40,6 @@ The process of preparing the dataset involved:
 We using Flask to deploy machine learning model. [Click here](https://github.com/Baskarya/flask-ml-model) to see documentation.
 
 
-## Reference
+## References
 - [Medium Article: "Image-Based Product Recommendation System"](https://zakim.medium.com/image-based-product-recommendation-e1bfa29e508)
-- 
+
