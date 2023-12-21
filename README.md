@@ -5,6 +5,7 @@ Machine learning make recomendation system based by visual similarity.
 
 ## Method
 Created machine learning model for batik motif classification using a pre trained model from MobileNetV2. Then we take the layer before the output layer to extract images from each batik and look for similarities using cosine similarity to make recommendations.
+![Diagram](images/diagram.png)
 
 ## Tools
 - [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
