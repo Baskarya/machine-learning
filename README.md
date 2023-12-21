@@ -16,7 +16,7 @@ Created machine learning model for batik motif classification using a pre traine
 - [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ## Dataset
-This dataset is a collection of images collected from various sources, including Kaggle and Google Images. The goal is to create a diverse and high-quality data set.
+This dataset is a collection of images collected from various sources.
 
 ### Sources
 - [Indonesian Batik Motifs](https://www.kaggle.com/datasets/dionisiusdh/indonesian-batik-motifs)
